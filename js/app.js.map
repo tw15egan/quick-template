@@ -1,0 +1,1 @@
+{"version":3,"sources":["functionOne.js","functionTwo.js","main.js"],"names":[],"mappings":"AAAA;AACA;AACA;ACFA;AACA;ACDA","file":"app.js","sourcesContent":["\n\n","console.log(\"It's aliiiiiiive!\");\n",""],"sourceRoot":"/source/"}
